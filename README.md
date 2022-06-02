@@ -14,8 +14,7 @@ Thus, a feedback vertex set of a graph is a set of vertices whose deletion leave
 
 ## Requirements
 
--   A 64-bit Linux operating system.
--   A modern, ![C++17](https://img.shields.io/badge/C++-17-blue.svg?style=flat)-ready compiler
+-   A 64-bit Linux operating system
 -   Python 3
 -   PuLP Library
 
@@ -37,3 +36,5 @@ A usage example would be:
     cat input_graph | python3 drip.py > fvs.txt
 
 Please keep all the 5 files: `input.txt`, `mfvs.txt`, `reduced_graph.txt`, `reductions`, `drip.py` in the same folder and run the above command
+
+This exact solver runs until an optimal solution is found
