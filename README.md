@@ -1,4 +1,6 @@
-# DRIP -  Directed feedback vertex set computation using Reductions and Integer Programming
+# DRIP - Directed feedback vertex set computation using Reductions and Integer Programming
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6618812.svg)](https://doi.org/10.5281/zenodo.6618812)
 
 This repository contains an **exact solution** to the Directed Feedback Vertex Set problem.
 
